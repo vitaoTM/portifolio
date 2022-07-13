@@ -1,0 +1,30 @@
+:root {
+  --background-color: #17162E;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Kumbh Sans', sans-serif;
+}
+
+body {
+  max-width: 1260px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  background: #429f3b;
+  margin: 0 auto;
+}
+
+main {
+    width: 100%;
+}
+
+h1 {
+  color: #FFF;
+  text-align: center;
+  margin: 2rem 0;
+}
