@@ -148,18 +148,20 @@ body {
   margin-bottom: 16px;
 }
 
-.conteudo-flexbox {
-  display: flex;
+.conteudo-grid {
+  display: grid;
+  grid-template-columns:  repeat(3, 1fr);
+  max-width: 1200px;
+  margin: 0 auto;
+  grid-gap: 20px;
   font-family: sans-serif;
   color: bisque;
   flex-wrap: wrap;
-  max-width: 1200px;
-  margin: 0 auto;
  }
- .conteudo-flexbox > div {
+ /* .conteudo-flexbox > div {
   flex: 1 1 200px;
   margin: 10px;
- }
+ } */
 
 .conteudo-projetos-imagem {
   display: grid;
@@ -202,4 +204,7 @@ h1 {
 img {
   max-width: 100%;
   display: block;
+  max-height:200px;
+  width: auto;
+  height: auto;
 }
