@@ -148,10 +148,18 @@ body {
   margin-bottom: 16px;
 }
 
-.conteudo-projetos {
+.conteudo-flexbox {
+  display: flex;
   font-family: sans-serif;
   color: bisque;
-}
+  flex-wrap: wrap;
+  max-width: 1200px;
+  margin: 0 auto;
+ }
+ .conteudo-flexbox > div {
+  flex: 1 1 200px;
+  margin: 10px;
+ }
 
 .conteudo-projetos-imagem {
   display: grid;
@@ -189,4 +197,9 @@ h1 {
   color: #FFF;
   text-align: center;
   margin: 2rem 0;
+}
+
+img {
+  max-width: 100%;
+  display: block;
 }
