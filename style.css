@@ -148,6 +148,16 @@ body {
   margin-bottom: 16px;
 }
 
+.conteudo-projetos {
+  font-family: sans-serif;
+  color: bisque;
+}
+
+.conteudo-projetos-imagem {
+  display: grid;
+  
+}
+
 .rodape {
   display: flex;
   flex-direction: row;
