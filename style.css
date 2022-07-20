@@ -184,7 +184,9 @@ body {
 
 }
 
-
+a {
+  color: hotpink;
+}
 .rodape {
   display: flex;
   flex-direction: row;
