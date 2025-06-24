@@ -12,7 +12,6 @@ Nesse repositório estou tentando criar uma pagina de portifólio a partir do gi
 | :rocket: URL          | https://https://vitaotm.github.io/portifolio/
 | :fire: Desafio        | Não tem
 
-<img height="250" width="250" src="https://github.com/vitaoTM/portifolio/blob/main/images/VitaoTM-1.png.png#vitrinedev">
 
 ## Detalhes do Projeto
 
