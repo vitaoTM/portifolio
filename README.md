@@ -10,7 +10,7 @@ Nesse repositório estou tentando criar uma pagina de portifólio a partir do gi
 | :sparkles: Nome       | **Meu portifólio**
 | :label: Tecnologias   | html, css, javascript
 | :rocket: URL          | https://https://vitaotm.github.io/portifolio/
-| :fire: Desafio        | Não tem
+| :fire: Desafio        | Entendimento das ferramentas basicas da web
 
 
 ## Detalhes do Projeto
