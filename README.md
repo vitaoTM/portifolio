@@ -5,6 +5,9 @@ Landing page do do site de portifolio que fiz
 Nesse repositório estou tentando criar uma pagina de portifólio a partir do github pages
 
 ---
+
+<div align="center">
+  
 | :placard: Vitrine.Dev |     |
 | -------------         | --- |
 | :sparkles: Nome       | **Meu portifólio**
@@ -12,6 +15,7 @@ Nesse repositório estou tentando criar uma pagina de portifólio a partir do gi
 | :rocket: URL          | https://https://vitaotm.github.io/portifolio/
 | :fire: Desafio        | Entendimento das ferramentas basicas da web
 
+</div>
 
 ## Detalhes do Projeto
 
